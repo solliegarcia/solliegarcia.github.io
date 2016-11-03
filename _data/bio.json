@@ -6,7 +6,7 @@
     "email": "sollie@hawaii.edu",
     "phone": "808-896-2886",
     "website": "https://solliegarcia.github.io",
-    "summary": "Learning by the day at University of Hawaii at Manoa.",
+    "summary": "UNDER DEVELOPMENT",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -94,19 +94,20 @@
       "endDate": "Summer 2016",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Record data genetically modified black tiger shrimp.",
+        "Care for the shrimp including feeding, water purification, and cleaning."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kealakehe High School Interact Club",
+      "website": "",
+      "position": "voluneer",
+      "startDate": "08/2012",
+      "endDate": "06/2015",
+      "summary": "Volunteer services including Iron Man Bike booths, Kona Marathon setup/cleanup, native forest restoration, 
+      Special Olympics staff, miscellaneous community events.",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"

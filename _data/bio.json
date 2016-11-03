@@ -19,34 +19,24 @@
         "network": "github",
         "username": "solliegarcia",
         "url": "http://github.com/solliegarcia"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Music",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Preformance",
+        "Production"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "the outdoors",
       "keywords": [
       ]
     }
@@ -93,8 +83,8 @@
       "endDate": "2016",
       "summary": "Accompany singer with multiple instruments.",
       "highlights": [
-        "Set up, ",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Know over 300 songs, able to play at request.",
+        "Set up, mixing, sound checks and preformance experience."
       ]
     },
     {
@@ -140,16 +130,10 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2015-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {

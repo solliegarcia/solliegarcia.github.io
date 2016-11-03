@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sollie Garcia",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://solliegarcia.github.io/images/logo.svg",
     "email": "sollie@hawaii.edu",
     "phone": "808-896-2886",
     "website": "https://solliegarcia.github.io",
@@ -59,13 +59,10 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "beginner",
+      "level": "",
       "keywords": [
         "Java",
         "Ruby",
-        "Java",
-        "Javascript",
-        "Assembly",
         "Common Lisp"
       ]
     },
@@ -76,6 +73,7 @@
         "Windows",
         "Ubuntu",
         "Git/GitHub",
+        "Unix Command Line"
       ]
     }
   ],
@@ -86,21 +84,21 @@
       "studyType": "B.S.",
       "startDate": "8/25/2015",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.78",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "BigIsleSmile",
+      "position": "Muscician",
+      "website": "http://www.bigislesmile.com/",
+      "startDate": "2009",
+      "endDate": "2016",
+      "summary": "Accompany singer with multiple instruments.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
+        "Set up, ",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },

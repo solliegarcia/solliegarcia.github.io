@@ -61,8 +61,8 @@
       "name": "Languages and Frameworks",
       "level": "beginner",
       "keywords": [
-        "C",
-        "C++",
+        "Java",
+        "Ruby",
         "Java",
         "Javascript",
         "Assembly",
@@ -73,20 +73,18 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "8/25/2015",
       "endDate": "Present",
       "gpa": "",
       "courses": [

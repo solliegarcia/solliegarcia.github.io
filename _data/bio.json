@@ -90,8 +90,8 @@
       "company": "Moana Technologies",
       "position": "Aquamarine Specialist",
       "website": "http://moanatechnologies.com/",
-      "startDate": "Summer 2016",
-      "endDate": "Summer 2016",
+      "startDate": "2016",
+      "endDate": "2016",
       "summary": "",
       "highlights": [
         "Record data genetically modified black tiger shrimp.",
@@ -104,8 +104,8 @@
       "organization": "Kealakehe High School Interact Club",
       "website": "",
       "position": "Student Voluneer",
-      "startDate": "08/2012",
-      "endDate": "06/2015",
+      "startDate": "2012",
+      "endDate": "2015",
       "summary": "Volunteer services including Iron Man Bike booths, Kona Marathon setup/cleanup, native forest restoration, 
       Special Olympics staff, miscellaneous community events.",
       "highlights": [
@@ -122,8 +122,8 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Giovanni Tolentino",
+      "reference": "Manager, Moana Techonogies"
     }
   ]
 }

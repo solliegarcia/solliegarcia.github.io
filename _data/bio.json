@@ -103,30 +103,15 @@
     {
       "organization": "Kealakehe High School Interact Club",
       "website": "",
-      "position": "voluneer",
+      "position": "Student Voluneer",
       "startDate": "08/2012",
       "endDate": "06/2015",
       "summary": "Volunteer services including Iron Man Bike booths, Kona Marathon setup/cleanup, native forest restoration, 
       Special Olympics staff, miscellaneous community events.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Cook a meal once a month for over 150 families at an event called 'Meet and Eat"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "B+ Scholarship",

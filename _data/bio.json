@@ -6,7 +6,7 @@
     "email": "sollie@hawaii.edu",
     "phone": "808-896-2886",
     "website": "https://solliegarcia.github.io",
-    "summary": "Currently studying Information and Computer Science at University of Hawaii at Manoa. Web and Design Assistant at DCDC Hawaii.",
+    "summary": "I am currently studying Information and Computer Science at University of Hawaii at Manoa and a Web and Design Assistant at DCDC Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "the Outdoors",
+      "name": "Powerlifting",
       "keywords": [
       ]
     }
@@ -52,7 +52,10 @@
       "level": "",
       "keywords": [
         "Java",
-        "Ruby"
+        "Ruby",
+        "SQL",
+        "JavaScript",
+        "C/C++"
       ]
     },
     {
@@ -60,7 +63,7 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Ubuntu",
+        "Linux",
         "Git/GitHub",
         "Unix Command Line"
       ]
@@ -73,22 +76,22 @@
       "studyType": "B.S.",
       "startDate": "8/25/2015",
       "endDate": "Present",
-      "gpa": "2.78",
+      "gpa": "3.1",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "BigIsleSmile",
-      "position": "Muscician",
-      "website": "http://www.bigislesmile.com/",
-      "startDate": "2009",
-      "endDate": "2016",
-      "summary": "Accompany singer with multiple instruments.",
+      "company": "Distance Course Design and Consulting",
+      "position": "Web and Design Assistant",
+      "website": "https://dcdc.coe.hawaii.edu/",
+      "startDate": "Nov 2016",
+      "endDate": "Current",
+      "summary": "Assist with full stack rails development on an ongoing project known as Hawaiian Assessment; a platform for creating, proctoring, and scoring standardized exams for Native Hawaiian immersion schools.",
       "highlights": [
-        "Know over 300 songs, able to play at request.",
-        "Set up, mixing, sound checks and preformance experience."
+        "Implement new features such as practice sample exam platform",
+        "Assist in code review, testing, and bug fixing"
       ]
     },
     {
@@ -102,6 +105,18 @@
         "Record data genetically modified black tiger shrimp.",
         "Care for the shrimp including feeding, water purification, and cleaning."
       ]
+    },
+    {
+      "company": "BigIsleSmile",
+      "position": "Muscician",
+      "website": "http://www.bigislesmile.com/",
+      "startDate": "2009",
+      "endDate": "2016",
+      "summary": "Accompany singer with multiple instruments.",
+      "highlights": [
+        "Know over 300 songs, able to play at request.",
+        "Set up, mixing, sound checks and preformance experience."
+      ]
     }
   ],
   "volunteer": [
@@ -111,10 +126,11 @@
       "position": "Student Voluneer",
       "startDate": "2012",
       "endDate": "2015",
-      "summary": "Volunteer services including Iron Man Bike booths, Kona Marathon setup/cleanup, native forest restoration,
+      "summary": "Volunteer services including Iron Man booths, Kona Marathon setup/cleanup, native forest restoration,
       Special Olympics staff, miscellaneous community events.",
       "highlights": [
-        "Cook a meal once a month for over 150 families at an event called 'Meet and Eat"
+        "Cook a meal once a month for over 150 families at an event called 'Meet and Eat",
+        "Hand water and food to participants in the Iron Man triathlon."
       ]
     }
   ],
@@ -128,8 +144,12 @@
   ],
   "references": [
     {
-      "name": "Giovanni Tolentino",
-      "reference": "Manager, Moana Techonogies P"
+      "name": "Patrick Karjala",
+      "reference": "Programmer, DCDC"
+    },
+    {
+      "name": "Erin Thompson",
+      "reference": "AP Physics Teacher, Kealakehe High School"
     }
   ]
 }

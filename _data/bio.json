@@ -14,8 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "github",
         "username": "solliegarcia",
         "url": "http://github.com/solliegarcia"
@@ -27,8 +26,7 @@
       }
     ]
   },
-  "interests": [
-    {
+  "interests": [{
       "name": "Music",
       "keywords": [
         "Preformance",
@@ -37,17 +35,14 @@
     },
     {
       "name": "Software Engineering",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Powerlifting",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
-  "skills": [
-    {
+  "skills": [{
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
@@ -69,20 +64,16 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
-      "studyType": "B.S.",
-      "startDate": "8/25/2015",
-      "endDate": "Present",
-      "gpa": "3.1",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
+  "education": [{
+    "institution": "University of Hawaii, Honolulu, HI",
+    "area": "Computer Science (expected Fall, 2020)",
+    "studyType": "B.S.",
+    "startDate": "8/25/2015",
+    "endDate": "Present",
+    "gpa": "3.1",
+    "courses": []
+  }],
+  "work": [{
       "company": "Distance Course Design and Consulting",
       "position": "Web and Design Assistant",
       "website": "https://dcdc.coe.hawaii.edu/",
@@ -119,37 +110,28 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Kealakehe High School Interact Club",
-      "website": "",
-      "position": "Student Voluneer",
-      "startDate": "2012",
-      "endDate": "2015",
-      "summary": "Volunteer services including Iron Man booths, Kona Marathon setup/cleanup, native forest restoration,
-      Special Olympics staff, miscellaneous community events.",
-      "highlights": [
-        "Cook a meal once a month for over 150 families at an event called 'Meet and Eat",
-        "Hand water and food to participants in the Iron Man triathlon."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2015-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-  ],
-  "references": [
-    {
-      "name": "Patrick Karjala",
-      "reference": "Programmer, DCDC"
-    },
-    {
-      "name": "Erin Thompson",
-      "reference": "AP Physics Teacher, Kealakehe High School"
-    }
-  ]
+  "volunteer": [{
+    "organization": "Kealakehe High School Interact Club",
+    "website": "",
+    "position": "Student Voluneer",
+    "startDate": "2012",
+    "endDate": "2015",
+    "summary": "Volunteer services including Iron Man booths, Kona Marathon setup/cleanup, native forest restoration,
+    Special Olympics staff,
+    miscellaneous community events.
+    ",
+    "highlights": [
+      "Cook a meal once a month for over 150 families at an event called 'Meet and Eat",
+      "Hand water and food to participants in the Iron Man triathlon."
+    ]
+  }],
+  "awards": [{
+    "title": "B+ Scholarship",
+    "date": "2015-Present",
+    "awarder": "State of Hawaii",
+    "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+  }],
+  "references": [{
+    "name": "Available upon request.",
+  }]
 }

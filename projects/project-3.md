@@ -1,18 +1,19 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/graphs.jpg
+title: Sorting Algorithm Analysis
+permalink: projects/algorithm-analysis
+date: 2016
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Algorithms
+  - Sorting
+  - ICS 211
+  - Sorting
+summary: An analysis of sorting algorithms for ICS 211.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-C
+This project involved coding multiple sorting algorithms such as bubble sort, and quick sort in Java. We were then given a text file of 10,000 strings and we had to gather data on how each sort preformed on different sized sorts. This was the first time coding something and seeing my computer slightly stutter at computing something. Before that class, I was under the impression that my code will run at high speeds no matter what. It was interesting graphing all the data and seeing that no, not everything is efficient at high values such as these sorts.
 
-Source: <a href="https://github.com/solliegarcia/c-database/"><i class="large github icon "></i>jogarces/c-database</a>
+Learning and seeing the Big(O) of these sorts made me keep efficiency in mind in everything I design. Can what I wrote handle high loads? That is an important question to always keep in mind, especially in my current workplace where we handle high query requests.  

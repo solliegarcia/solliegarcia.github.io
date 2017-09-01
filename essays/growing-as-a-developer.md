@@ -19,5 +19,11 @@ fell in love with ICS.
 I was luck enough to get a part time job as an assistant full-stack web developer working on an existing project
 known as Hawaiian Assessment. Going into this job, I had no experience in the platform they used, Ruby on Rails.
 The past developer recommended me to my employer because he saw my eagerness to learn. It was an eye opener to me,
-that I was hired soley on that fact that loved learning. The first few months were not easy, I read textbooks, spent
-hours reviewing the thousands of lines of code already written, and 
+that I was hired solely on that fact that loved learning. The first few months were not easy, I read textbooks, spent
+hours reviewing the thousands of lines of code already written. However I got to see the development from the beginning
+to the end. It wasn't until this opportunity where I got a taste of real, applicable software development.
+# Running the Marathon
+I am in this for the long run. I want to learn everything I can about software development that this class has to offer.
+I want to be better at what I do; this will take practice, time, sweat and maybe some tears. But in the end it will all be worth it.
+What I learn in this class will be carried through my career for the foreseeable future. I believe
+the most valuable lesson that can be learned from this class is working as a team.

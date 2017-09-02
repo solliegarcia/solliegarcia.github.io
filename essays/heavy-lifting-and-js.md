@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Growing as a Developer
+title: Heavy Lifting and JavaScript
 date: 2017-09-01
 labels:
   - Software Engineering

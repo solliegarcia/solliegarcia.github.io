@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-<img class="ui medium right floated rounded image" src="../images/meteor-destruction.png">
+<img class="ui medium right floated rounded image" src="../images/meteor-destruction.jpg">
 
 # Smooth Landing
 
@@ -21,3 +21,4 @@ The "Model View Controller" is pushed by Rails extrenuiously and has now been en
 ## Meteor Distuputs Time...
 
 Setting up Meteor was simple, however deploying it is a different story. I found my two year old high end laptop struggling to deploy a development environment in under 10 minutes. That is a lot of down time. I have yet to figure out how to fix the problem by using meteor commands but I have an idea that might fix it. It may just be easier to boot up a [VagrantBox](https://www.vagrantup.com/) and run meteor through there. It is simple enough to install and getting the development environment takes only takes one command, 'vagrant up'. This would require some testing because I have come across vagrant boxes that everytime they boot, they have to redownload all the assets and I assume that is why deploying the normal way takes quite a while. 
+
